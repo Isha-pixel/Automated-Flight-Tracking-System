@@ -1,4 +1,4 @@
-# Flight Tracking System - Automated Task Management
+# Automated Flight Tracking System - An Autonomous Agent
 
 A sophisticated Python-based automation tool that revolutionizes the software development workflow by intelligently decomposing high-level requirements into actionable tasks, creating structured Jira tickets, and generating comprehensive test cases using Google's Gemini AI.
 
@@ -263,7 +263,7 @@ pip install -r requirements.txt
 ### Basic Usage
 Run the script and follow the prompts:
 ```
-python flight_tracking_system.py
+python automated_flight_tracking_system.py
 ```
 
 When prompted, enter your main task requirement. For example:
