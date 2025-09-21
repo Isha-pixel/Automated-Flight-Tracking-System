@@ -1,4 +1,4 @@
-# Automated Flight Tracking System - An Autonomous Agent
+# AI-Powered Jira Task and Test Case Generator Agent
 
 A sophisticated Python-based automation tool that revolutionizes the software development workflow by intelligently decomposing high-level requirements into actionable tasks, creating structured Jira tickets, and generating comprehensive test cases using Google's Gemini AI.
 
